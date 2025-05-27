@@ -46,7 +46,7 @@
     "node-gyp": "^9.0.0",
     "nyc": "^15.0.0",
     "puppeteer": "23.1.0",
-    "puppeteer-core": "23.1.0",
+    "puppeteer-core": "23.11.1",
     "puppeteer-to-istanbul": "1.4.0",
     "rimraf": "^5.0.0",
     "sinon": "^12.0.0",
